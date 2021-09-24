@@ -1,6 +1,6 @@
 {
   "name": "@mancas/release-scripts",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Scripts to manage project releases",
   "bin": {
     "spark-scripts": "./bin/scripts.js"
