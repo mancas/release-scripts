@@ -1,6 +1,6 @@
 {
   "name": "release-scripts",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Scripts to manage project releases",
   "bin": {
     "release-scripts": "./bin/scripts.js"
