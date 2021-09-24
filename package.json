@@ -1,5 +1,5 @@
 {
-  "name": "@mancas/release-scripts",
+  "name": "release-scripts",
   "version": "1.0.4",
   "description": "Scripts to manage project releases",
   "bin": {
