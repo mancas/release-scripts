@@ -1,16 +1,16 @@
 {
   "name": "release-scripts",
-  "version": "1.0.4",
+  "version": "1.0.3",
   "description": "Scripts to manage project releases",
   "bin": {
-    "spark-scripts": "./bin/scripts.js"
+    "release-scripts": "./bin/scripts.js"
   },
   "author": "Manuel Casas Barrado (@mancas)",
   "license": "MIT",
   "dependencies": {
     "chalk": "^2.4.2",
     "conventional-changelog-cli": "^2.0.12",
-    "env-cmd": "^8.0.2",
+    "env-cmd": "^10.1.0",
     "node-emoji": "^1.10.0",
     "release-it": "^10.4.1"
   },
